@@ -1,4 +1,9 @@
 <?php
+/*
+Full tutorial : https://youtu.be/60pMCTSfKpg
+Bahasa : Indonesia
+*/
+
 error_reporting(0);
 const
 b = "\033[1;34m",
